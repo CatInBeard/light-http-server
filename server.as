@@ -1,3 +1,7 @@
+#  Copyright (c) 2025 Grigoriy Efimov
+# 
+# Licensed under the MIT License. See LICENSE file for details.
+
 .equ AF_INET, 2
 .equ SOCK_STREAM, 1
 .equ IPPROTO_TCP, 0
